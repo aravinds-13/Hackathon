@@ -45,7 +45,7 @@ Tools used
 
 Workflow
 
-<img src = "work.png" height = "40% width = "30%" alignment = "center">
+<img src = "Documentation/work.png" height = "40%" width = "30%" alignment = "center">
  
 
 
