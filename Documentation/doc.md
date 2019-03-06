@@ -45,7 +45,7 @@ Tools used
 
 Workflow
 
-<img src = "Documentation/work.png" height = "40%" width = "30%" alignment = "center">
+<img src = "work.png">
  
 
 
@@ -81,4 +81,5 @@ We believe that our application can prove to be an asset to the medical industry
 Screenshots
  
  
-
+<img src = "Screenshot_Heal_20190306-110930.png" width ="40%" height = "40%"></br>
+<img src = "Screenshot_Heal_20190306-110916.png" width ="40%" height = "40%">
